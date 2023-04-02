@@ -2,7 +2,7 @@
 
  Projeto do curso "HTML e CSS: praticando HTML/CSS" da Alura com a Instrutora Mônica Mazzochi Hillman
 
-> :construction: Projeto em construção :construction:
+> ✔️ Projeto finalizado ✔️
 
 # Resultado esperado: 
 
