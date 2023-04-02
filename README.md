@@ -7,3 +7,7 @@
 # Resultado esperado: 
 
 ![projeto](https://user-images.githubusercontent.com/14630342/229287588-7a2e6901-e8bf-4706-8e37-93113d691a33.png)
+
+# Deploy do projeto 💨
+
+Visite a página: https://falvesortiz.github.io/Curso-Alura-AluraPlus/
